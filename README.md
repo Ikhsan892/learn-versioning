@@ -1,0 +1,1 @@
+release-please bootstrap --token=kepolunyet --repo-url=Ikhsan892/learn-versioning --release-type=go
