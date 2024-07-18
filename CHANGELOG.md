@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/Ikhsan892/learn-versioning/compare/v2.0.0...v2.1.0) (2024-07-18)
+
+
+### Features
+
+* add content exit yayy ([04acc42](https://github.com/Ikhsan892/learn-versioning/commit/04acc42657fc5e6a31f3344422098bae5e50c6f7))
+
 ## [2.0.0](https://github.com/Ikhsan892/learn-versioning/compare/v1.0.0...v2.0.0) (2024-07-18)
 
 
