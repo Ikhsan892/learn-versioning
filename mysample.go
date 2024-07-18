@@ -2,6 +2,6 @@ package main
 
 type PC struct{}
 
-func (c PC) Print() string {
+func (c PC) PrintName() string {
 	return "Hi tamvan"
 }
