@@ -4,5 +4,7 @@ import "fmt"
 
 func main() {
 
-	fmt.Println("My Apps is using versioning yeay, add 1")
+	pc := PC{}
+
+	fmt.Println("My Apps is sending", pc.Print())
 }
