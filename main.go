@@ -6,5 +6,5 @@ func main() {
 
 	pc := PC{}
 
-	fmt.Println("My Apps is sending", pc.Print())
+	fmt.Println("My Apps is sending ", pc.Print())
 }
